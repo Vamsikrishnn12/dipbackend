@@ -1,0 +1,3 @@
+[submodule "food"]
+	path = food
+	url = https://github.com/dipanddash/dipanddashbackend.git
